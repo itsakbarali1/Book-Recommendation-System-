@@ -84,4 +84,4 @@ The project demonstrated the potential of these techniques to generate personali
 
 ## Author
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
+- [Akbar Ali Shaikh]
